@@ -20,6 +20,6 @@ This is a technical assessment project demonstrating **API parsing using SwiftUI
 - **SwiftUI**
 - **MVVM Pattern**
 - **Combine**
-- **Rick and Morty REST API**
+- **REST API**
 
 
