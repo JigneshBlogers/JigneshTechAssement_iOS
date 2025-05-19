@@ -22,7 +22,4 @@ This is a technical assessment project demonstrating **API parsing using SwiftUI
 - **Combine**
 - **Rick and Morty REST API**
 
----
-
-## 🧬 API Endpoint
 
